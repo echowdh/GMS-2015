@@ -1,7 +1,11 @@
 Dear ALL,
+
 This the records of your bonuses.
+
 If there is any mistakes, please let me know, or just edit it by yourself.
+
 I sincerely suggest that we make the records by all of us, implement the decentralized idea and build a public and fair system.
+
 Echo
 
 |**Date**|**Name**|**Points**|**Remarks**|
